@@ -1,0 +1,8 @@
+setup.py
+acunetix/__init__.py
+acunetix/acunetix.py
+acunetix/config.py
+acunetix.egg-info/PKG-INFO
+acunetix.egg-info/SOURCES.txt
+acunetix.egg-info/dependency_links.txt
+acunetix.egg-info/top_level.txt
